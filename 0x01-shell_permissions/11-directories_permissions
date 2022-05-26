@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g+x /alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+chmod go+x 11-directories_permissions
